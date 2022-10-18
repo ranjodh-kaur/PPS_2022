@@ -1,6 +1,21 @@
 ## Program 2: Write a code to calculate integer
 
+#include<stdio.h>
 
-(x-special/nautilus-clipboard
-copy
-file:///home/os12/program2.c)
+int main()
+
+{
+
+int x,y,z;
+
+x=10;
+
+y=20;
+
+z=x+y;
+
+printf("%d",z);
+
+return 0;
+
+}
