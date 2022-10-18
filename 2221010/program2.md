@@ -1,4 +1,4 @@
-## program2: Write a program to add 2 numbers
+## Program2: Write a program to add 2 numbers
 
 #include<stdio.h>
 
@@ -20,4 +20,4 @@ return 0;
 
 }
 
-*output*: 30
+**output**: 30
