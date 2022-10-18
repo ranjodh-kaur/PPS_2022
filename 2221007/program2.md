@@ -1,4 +1,4 @@
-##Program 2: Write a code to calculate integer
+## Program 2: Write a code to calculate integer
 
 
 (x-special/nautilus-clipboard
