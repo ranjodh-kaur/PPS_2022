@@ -20,3 +20,5 @@ printf("%d",z)
 return 0;
 
 }
+
+*output*: 30
