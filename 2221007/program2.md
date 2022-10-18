@@ -19,3 +19,5 @@ printf("%d",z);
 return 0;
 
 }
+
+## Output: 30
