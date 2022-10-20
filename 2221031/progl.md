@@ -6,4 +6,4 @@ printf("helloworld");
 return 0;
 }
 ```
-**OUTPUT helloworld**
+**OUTPUT: helloworld**
