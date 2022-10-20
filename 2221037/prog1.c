@@ -1,3 +1,4 @@
+//PROGRAM 1
 //Code to display hello world mesage
 
 #include<stdio.h>
@@ -7,3 +8,6 @@ int main(){
 	return 0;
 }
 
+
+//Output:
+//Hello World
