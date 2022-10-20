@@ -1,0 +1,14 @@
+
+##Program 1: Write a code to display hello world message
+
+...
+
+#include<stdio.h>
+int main(){
+	printf("Hello World\n");
+	return 0;
+}
+
+...
+
+##Output: Hello World
