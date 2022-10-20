@@ -1,4 +1,4 @@
-## Program l: write a code to display hello world message 
+## Program l: Write a code to display hello world message 
 ```
 #include <stdio.h>
 int main() {
