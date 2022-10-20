@@ -1,7 +1,7 @@
 
-##Program 1: Write a code to display hello world message
+## Program 1: Write a code to display hello world message
 
-...
+```
 
 #include<stdio.h>
 int main(){
@@ -9,6 +9,6 @@ int main(){
 	return 0;
 }
 
-...
+```
 
-##Output: Hello World
+## Output: Hello World
