@@ -6,8 +6,9 @@ int main()
 int a;
 printf("Enter an integer:");
 scanf("%d", &a);
-printf("number= %d",a);
+printf("number= %d\n",a);
 return 0;
 }
 ```
-**Output ---- Enter an integer:4  number= 4**
+**Output ---- Enter an integer:3
+number= 3**
