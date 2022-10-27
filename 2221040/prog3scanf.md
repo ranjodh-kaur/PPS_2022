@@ -1,4 +1,4 @@
-## Write a program to get interger input from user
+## Write a program to get integer input from user
 ```
 #include<stdio.h>
 int main()
