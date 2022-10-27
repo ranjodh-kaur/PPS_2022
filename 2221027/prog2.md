@@ -1,4 +1,4 @@
-##_program 2:Write a code to display sum of two numbers
+## Program 2:Write a code to display sum of two numbers
 ```C
 #include<stdio.h>
 int main()
@@ -10,7 +10,7 @@ z=x+y;printf("%d",z);
 return 0;
 }
 ```
-**output: 30
+**output: 30**
 
 
 
