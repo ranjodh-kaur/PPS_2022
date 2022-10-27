@@ -10,8 +10,7 @@ z=x+y;printf("%d",z);
 return 0;
 }
 ```
-**
-output: 30
+**output: 30
 
 
 
