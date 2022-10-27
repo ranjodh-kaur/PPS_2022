@@ -3,8 +3,6 @@
 ```C
 #include<stdio.h>
 
-//Program to add two numbers
-
 int main(){
 	int a = 17,b=23;
 	int z = a+b;
