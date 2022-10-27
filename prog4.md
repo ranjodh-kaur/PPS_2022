@@ -1,4 +1,4 @@
-## Program 5 : Write a program to demonstrate the use of if else
+## Program 4 : Write a program to demonstrate the use of if else
 ```C
 #include<stdio.h>
 int main()
