@@ -1,4 +1,4 @@
-## Program to add to variables
+## Write a program to Program to add two variables
 ```
 #include<stdio.h>
 int main()
