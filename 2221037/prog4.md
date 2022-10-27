@@ -3,8 +3,6 @@
 ```C
 #include<stdio.h>
 
-//Program to demonstrate operators
-
 int main(){
 	int a=50,b=5;
 
