@@ -3,8 +3,6 @@
 ```C
 #include<stdio.h>
 
-//Program to get user input
-
 int main(){
 	int x;
 	printf("Enter a number : ");
