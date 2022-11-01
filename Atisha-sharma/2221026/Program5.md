@@ -1,4 +1,4 @@
-## Program 5: Write a program to use for loop
+## Program 5: Write a program of table of 3 by usimg for loop
 
 #include <stdio.h>
 
@@ -23,7 +23,7 @@ printf("%d \n",(number*i));
 
 }
 
-output : Enter a number: 3
+## output : Enter a number: 3
 
 3
 
