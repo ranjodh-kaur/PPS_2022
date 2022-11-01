@@ -1,5 +1,5 @@
 ##Program 2: Write a program to add two numbers
-
+```
 #include <stdio.h>
 int main()
 {
@@ -9,5 +9,6 @@ y=8;
 z=x+y;
 printf("%d",z);
 return 0;
-}
+}   
+```
 output: 13
