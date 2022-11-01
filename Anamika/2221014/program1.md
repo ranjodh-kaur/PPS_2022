@@ -1,7 +1,12 @@
-# write a program to display "hello world"
+## write a program to display "hello world"
 
-#include<stdio.h>
+
+#include <stdio.h>
+
 int main()
+
 {
-printf("hello world'); 
+
+printf("hello world");
+
 return 0;
