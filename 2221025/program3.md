@@ -1,4 +1,4 @@
-## Program 3: To write username password
+## Program 3 :  Write a program to write username password
 
 ```
 #include<stdio.h>
