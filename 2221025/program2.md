@@ -1,5 +1,5 @@
 ##  Program 2 : Write a code of Adittion of 2 numbers
-```
+```C
 #include<stdio.h>
 int main()
 {
