@@ -1,20 +1,17 @@
-write a program to check if a student passed or failed .
-marks > 30 is pass
-marks <= 30 is fail.
+## Program 5: write a program of table of 3 by using for loop
 
+#include <stdio.h>
 
-#include<stdio.h>
+int main()
 
-int main() 
 {
-int marks ;
-printf("enter number(0-100):");
-scanf("%d", & marks);
 
-if (marks<=30){
-printf("fail\n");
-}else{
-printf("pass\n");
-}
+int I=1,
 
-return 0;
+number=0;
+
+printf("enter a number:");
+
+scanf("%d" ,&number);
+
+[
