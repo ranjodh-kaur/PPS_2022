@@ -1,6 +1,6 @@
-## Progam of while
+## Program of while loop
 
-#include <studio.h>
+#include <stdio.h>
 
 int main()
 
