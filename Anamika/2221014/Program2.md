@@ -1,14 +1,23 @@
-##program2 : Write a program for addition of two number
+## Program 2 : Write a program for addition of two numbers
 
-#includem<stdio.h>
+#include <stdio.h>
+
 int main()
-{
-int x,y,z;
 
-x=18;
-y=10;
-z=x+y;
-printf("%d,z);
+{
+
+int number1,number2,sum;
+
+number1=18;
+
+number2=10;
+
+sum=number1+number2;
+
+printf("%d",sum);
+
 return 0;
+
 }
-*output* :28
+
+**output :28**
