@@ -12,4 +12,4 @@ return 0;
 }
 ```
 
-Output: 30
+**Output: 30**
