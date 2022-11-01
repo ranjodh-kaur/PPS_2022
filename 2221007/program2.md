@@ -1,5 +1,5 @@
 ## Program 2: Write a code to calculate integer
-
+```C
 #include<stdio.h>
 
 int main()
@@ -19,5 +19,5 @@ printf("%d",z);
 return 0;
 
 }
-
+```
 ## Output: 30
