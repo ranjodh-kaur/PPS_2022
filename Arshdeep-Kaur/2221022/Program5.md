@@ -7,7 +7,7 @@ int main()
 
 int i=1,
 
-n=0;
+number=0;
 
 printf("Enter a number: ");
 
@@ -17,7 +17,7 @@ for(i=1;i<=10;i++)
 
 {
 
-printf("%d \n",(number*n));
+printf("%d \n",(number*i));
 
 }
 
