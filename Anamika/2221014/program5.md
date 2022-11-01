@@ -24,4 +24,4 @@ return 0;
 
 }
 
-*Output* : n1 is the largest number
+**Output* : n1 is the largest number**
