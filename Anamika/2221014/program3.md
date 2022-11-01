@@ -7,16 +7,17 @@ int main()
 {
 
 int a, b, sum;
-printf(enter two numbers:");
 
-//calculating sum
-sum = a + b;
+printf("enter two numbers:");
 
-printf("%d + %d = %d", a,b,sum );
-return 0;
-}
-Enter two number : 5
+//calculating sum, sum = a + b;
 
-29
+printf("%d + %d = %d", a,b, sum ); 
 
-5 + 29 = 34
+return 0; }
+
+**OUTPUT : Enter two numbers 
+
+5 29
+
+34
