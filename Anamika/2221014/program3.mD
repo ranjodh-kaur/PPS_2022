@@ -14,3 +14,9 @@ sum = a + b;
 
 printf("%d + %d = %d", a,b,sum );
 return 0;
+}
+Enter two number : 5
+
+29
+
+5 + 29 = 34
