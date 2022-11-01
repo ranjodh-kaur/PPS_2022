@@ -1,4 +1,4 @@
-## program5: To write a program to use loops (*While*)
+## program3: To write a program to use loops (*While*)
 
 #include <stdio.h>
 
