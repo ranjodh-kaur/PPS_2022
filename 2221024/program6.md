@@ -23,3 +23,5 @@ if(n3>=n1 && n3>=n2)
 printf("n3 is the largest number");
 
 }
+
+**Output: n1 is the largest numder**
