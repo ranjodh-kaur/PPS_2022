@@ -1,6 +1,9 @@
-include <stdio.h>
+Program 3 : Write a program to print hello world
+
+#include <stdio.h>
 int main() 
 {
 printf ("Hello World");
 return 0;
 }
+output: Hello World
