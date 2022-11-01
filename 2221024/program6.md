@@ -10,18 +10,27 @@ int n1,n2,n3;
 
 n1=57,n2=45,n3=10;
 
-if(n1>=n2 && n2>=n3)
+if (n1>n2 && n1>n3)
 
-printf("n1 is the largest number");
+printf("%d",n1);
 
-if(n2>=n1 && n2>=n3)
+else {
 
-printf("n2 is the largest number");
-
-if(n3>=n1 && n3>=n2)
-
-printf("n3 is the largest number");
+    if(n2>n1 && n2>n3)
+    
+    printf("%d",n2);
+    
+    else {
+    
+        if(n3>n1 && n3>n2)
+        
+        printf("%d",n3);
+        
+}
 
 }
 
-**Output: n1 is the largest numder**
+}
+
+
+**Output: 57**
