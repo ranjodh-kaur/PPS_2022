@@ -1,4 +1,4 @@
-## Program6: To write a program to find the largest number among three 
+## Program4: To write a program to find the largest number among three 
 
 #include <stdio.h>
 
