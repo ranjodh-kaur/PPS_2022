@@ -1,4 +1,4 @@
-##  Program 2: Write a code of Adittion of 2 numbers
+##  Program 2 : Write a code of Adittion of 2 numbers
 ```
 #include<stdio.h>
 int main()
