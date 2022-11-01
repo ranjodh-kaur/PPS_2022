@@ -1,4 +1,4 @@
-## Program to Sum
+## Program for Sum
 
 #include <stdio.h>
 
@@ -20,4 +20,4 @@ int main()
     
 }
 
-**Output: 40**
+**Output: 30**
