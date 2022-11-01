@@ -20,7 +20,7 @@ return0;
 
 }
 
-output: enter two numbers:5
+## output: Enter two numbers:5
 
 20
 
