@@ -1,4 +1,4 @@
-## Program8: To input username and rollnumber using scanf
+## Program8:To input username and rollnumber using scanf
 
 #include<stdio.h>
 
