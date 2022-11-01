@@ -1,5 +1,5 @@
-## Program 3: write a program to show the greater number
-
+### Program 3: write a program to show the greater number
+```
 #include <stdio.h>
 int main()
 {
@@ -14,4 +14,5 @@ int main()
  printf("c is greater");
  return 0;
 }
+```
 output: c is greater
