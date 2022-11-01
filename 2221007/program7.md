@@ -1,4 +1,4 @@
-### Program 4 : Write a program for finding greatest between 3 numbers
+### Program 7 : Write a program for finding greatest between 3 numbers
 ```C
 #include<stdio.h>
 int main()
