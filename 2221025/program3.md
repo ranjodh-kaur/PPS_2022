@@ -1,6 +1,6 @@
 ## Program 3 :  Write a program to write username password
 
-```
+```C
 #include<stdio.h>
 int main()
 {
