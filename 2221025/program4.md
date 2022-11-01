@@ -1,5 +1,5 @@
 ## Program 4 : Write a program for 2 numbers using Conditional Branching
-```
+```C
 
 #include<stdio.h>
 int main()
