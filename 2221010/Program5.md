@@ -1,4 +1,4 @@
-## Program5: To find area of a square 
+## Program5:To find area of a square 
 #include <stdio.h>
 
 int main()
