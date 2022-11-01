@@ -1,4 +1,4 @@
-## Program 3 :  Write a program to write username roll no
+## Program 6:  Write a program to write username roll no
 
 ```C
 #include<stdio.h>
