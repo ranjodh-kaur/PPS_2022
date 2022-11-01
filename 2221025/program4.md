@@ -1,4 +1,4 @@
-## Program 4 : Write a program for 2 numbers using Conditional Branching
+## Program 4 : Write a program for finding greatest between 3 numbers
 ```C
 
 #include<stdio.h>
@@ -21,3 +21,4 @@ return 0;
 }
 
 ```
+**Output : c is greater**
