@@ -1,4 +1,6 @@
-#include<stdio.h>
+##Program 2: Write a program to add two numbers
+
+#include <stdio.h>
 int main()
 {
 int x,y,z;
@@ -8,4 +10,4 @@ z=x+y;
 printf("%d",z);
 return 0;
 }
-
+output: 13
