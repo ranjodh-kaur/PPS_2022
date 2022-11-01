@@ -1,6 +1,6 @@
-program 3: write a program to input two numbers using scanf() and add them 
+## program 3: write a program to input two numbers using scanf() and add them 
 
-#include<stdio.h>
+#include <stdio.h>
 
 int main()
 
@@ -8,16 +8,27 @@ int main()
 
 int a, b, sum;
 
-printf("enter two numbers:");
+printf("enter first number-");
 
-//calculating sum, sum = a + b;
+scanf("%d",&a);
+
+printf("enter second number-");
+
+scanf("%d",&b);
+
+sum = a + b;
 
 printf("%d + %d = %d", a,b, sum ); 
 
-return 0; }
+return 0; 
 
-**OUTPUT : Enter two numbers 
+}
 
-5 29
+**OUTPUT : Enter first number- 6**
 
-34
+**enter second number- 7**
+
+**6+7=13**
+
+
+
