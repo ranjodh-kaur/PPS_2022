@@ -1,4 +1,4 @@
-## *Program7*: To write a program to use for loop
+## *Program7*: To write a program to use for loop (*for*)
 
 #include<stdio.h>
 
