@@ -25,4 +25,4 @@ return 0;
 
 }
 
-output : n1 is the largest number
+## output : n1 is the largest number
