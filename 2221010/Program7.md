@@ -1,4 +1,4 @@
-## *Program8*:  To write a code to add 2 integers
+## *Program7*:  To write a code to add 2 integers
 #include<stdio.h>
 
 int main(){
