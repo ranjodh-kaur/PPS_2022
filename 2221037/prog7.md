@@ -15,7 +15,7 @@ int main(){
 }
 ```
 
-## Output:
+### Output:
 ```
 Enter any number: -5
 n is negetive
