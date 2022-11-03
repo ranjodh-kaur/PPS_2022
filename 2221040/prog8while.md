@@ -1,23 +1,20 @@
 ##  Write a program to show the use of while loop
 ```
 #include <stdio.h>
-int main(){
-    int n,sum=0;
-    printf("Enter a number: ");
-    scanf("%d",&n);
-
-    while(n!=0){
-        sum+=n%10;
-        n/=10;
-    }
-
-    printf("Sum of digits: %d\n",sum);
-
-    return 0;
+int main()
+{
+int i = 0;
+while (i < 5)
+{
+printf("%d\n", i);
+i++;
+}
+return 0;
 }
 ```
-### Output:
-```
-Enter a number: 4096
-Sum of digits: 19
-```
+**Output:
+0
+1
+2
+3
+4**
