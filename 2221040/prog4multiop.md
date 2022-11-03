@@ -17,7 +17,6 @@ return 0;
 ```
 **Output-----A = 55
  B = 10
-
 A + B = 65 (addition operator)
 A - B = 45 (subtraction  operator)
 A * B = 550 (multiply operator)
