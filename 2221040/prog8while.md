@@ -1,4 +1,4 @@
-##  Write a program to show the use of while loop
+## Program 8: Write a program to show the use of while loop
 ```
 #include <stdio.h>
 int main()
