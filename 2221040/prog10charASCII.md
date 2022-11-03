@@ -1,4 +1,4 @@
-### Write a program to give ASCII value of a charcater variable
+### Program 10: Write a program to give ASCII value of a charcater variable
 ```
 #include <stdio.h>
 int main() 
