@@ -1,4 +1,4 @@
-## Program 7: Write a program to show the use of if statements
+## Program 7: Write a program to show the use of conditional operator
 
 ```c
 #include <stdio.h>
