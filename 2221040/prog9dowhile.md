@@ -1,4 +1,4 @@
-### Write a program to show the use of dowhile loop
+### Program 9:Write a program to show the use of dowhile loop
 ```
 #include <stdio.h>
 int main ()
