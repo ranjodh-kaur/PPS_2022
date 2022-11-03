@@ -12,5 +12,4 @@ return 0;
 }
 ```
 **Output-----Enter a number:4
-4 is even
-**
+4 is even**
