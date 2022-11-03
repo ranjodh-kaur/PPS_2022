@@ -1,4 +1,4 @@
-## Write a program using bitwise operator
+### Program 6: Write a program using bitwise operator
 ```
 #include <stdio.h>
 
