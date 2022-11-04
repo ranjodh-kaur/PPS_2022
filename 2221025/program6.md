@@ -9,7 +9,7 @@ printf("\n%d",i);
 return 0;
 }
 ```
-**Output :** 
+**Output :**  
 ```
           0
           1
