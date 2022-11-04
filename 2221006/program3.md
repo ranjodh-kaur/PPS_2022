@@ -1,4 +1,4 @@
-## Program 3: Write a program to get user input
+## program 3: Write a program to get user input
 ```c
 #include<stdio.h>
 
