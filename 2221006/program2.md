@@ -12,6 +12,10 @@ int main(){
   printf("A / B = %d\n",a/b);
   printf("A mod B = %d\n",a%b);
   
+  printf("A & B = %d\n",a & b);
+  printf("A | B = %d\n",a & b);
+  printf("~A = %d\n",~a);
+  
   return 0;
 
   }
@@ -26,4 +30,7 @@ A - B = 20
 A * B = 125
 A / B = 5
 A mod B = 0
+A & B = 1
+A | B = 1
+~A = -26
 ```
