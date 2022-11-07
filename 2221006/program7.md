@@ -1,4 +1,4 @@
-program 7: Write a code to use for loop
+## Program 7: Write a code to use for loop
 ```c
 #include<stdio.h>
     int main(){
