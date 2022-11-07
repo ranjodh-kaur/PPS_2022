@@ -1,6 +1,6 @@
 program 7: Write a code to use for loop
 ```c
-##include<stdio.h>
+#include<stdio.h>
     int main(){
    for(int i=1;i<=10;i++)printf("%d\n",i);
 
