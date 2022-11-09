@@ -1,4 +1,4 @@
-## Program 7 : Write a program for printing numbers
+## Program 7 : Write a program for printing numbers.
 ```C
 #include<stdio.h>
 int main()
