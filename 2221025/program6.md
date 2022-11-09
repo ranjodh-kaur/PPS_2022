@@ -1,4 +1,4 @@
-## Program 6 :Write a program for printing  counting 1 to 10.
+## Program 6 : Write a program for printing  counting 1 to 10.
 ```C
 #include<stdio.h>
 int main()
