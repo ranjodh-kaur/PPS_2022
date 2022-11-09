@@ -1,4 +1,4 @@
-## Program 5 : Write a program using conditional operators
+## Program 5 : Write a program using conditional operators.
 /*T denotes percentage inn 12th standard
 P denotes percentage in 10th standard*/
 ```
