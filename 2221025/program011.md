@@ -24,7 +24,7 @@ int main()
 			printf("vowel");
 			break;
 		
-				
+			
 				default:
 					printf("not a vowel");
 					
