@@ -1,4 +1,4 @@
-## Program 12 : Write a prorgram using array.
+## Program 15 : Write a prorgram using array.
 ```C
 #include<stdio.h>
 int main()
