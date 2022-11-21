@@ -1,4 +1,4 @@
-## Program 10 : Write a program to identify vowels.
+## Program 14 : Write a program to identify vowels.
 ```C
 #include<stdio.h>
 int main()
