@@ -1,4 +1,4 @@
-## Program 8 : Write a program for numbers.
+## Program 10 : Write a program for numbers.
 ```C
 #include<stdio.h>
 int main()
