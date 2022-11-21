@@ -1,4 +1,4 @@
-## Program 14 : Write a program to find ASCII value of a character.
+## Program 7 : Write a program to find ASCII value of a character.
 ```C
 #include<stdio.h>
 int main()
