@@ -2,7 +2,9 @@
 
 #include <stdio.h>
 
-int main(){
+int main()
+
+{
 
     int time=7;
     
