@@ -1,4 +1,4 @@
-## Program to write a code of Conditional Operaters ##
+## Program to write a code of Conditional Operaters 
 
 #include <stdio.h>
 
