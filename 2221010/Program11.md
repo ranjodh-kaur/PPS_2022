@@ -1,4 +1,4 @@
-## Program11: To write a code using bitwise operator
+##  Program11: To write a code using bitwise operator
 
 #include <stdio.h>
 
