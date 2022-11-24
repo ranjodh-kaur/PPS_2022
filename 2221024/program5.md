@@ -1,10 +1,8 @@
-## Program of while loop
+## Program of while loop 
 
 #include <stdio.h>
 
-int main()
-
-{
+int main(){
 
 int i=1;
 
