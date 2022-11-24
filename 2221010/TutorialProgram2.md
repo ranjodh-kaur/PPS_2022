@@ -1,4 +1,4 @@
-## Tutorial program2: To write a code to enter any charactre using scanf and arrays
+## Tutorial program2: To write a code to enter any character using scanf and arrays
 
 #include <stdio.h>
 
