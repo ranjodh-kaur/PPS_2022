@@ -28,10 +28,13 @@ switch(op)
 	}
  return 0;
 }
+```
+```
 Output: Choose an operator (+,-,*,/)
 -
 Enter two numbers on which u want to perform the operation
 5
 2
 i-j = 3
+```
 
