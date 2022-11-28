@@ -5,6 +5,7 @@
 int main()
 
 {
+
 int x,y,z;
 
 x=10;
@@ -19,4 +20,4 @@ return 0;
 
 }
 
-*Output*: 30
+**Output: 30
