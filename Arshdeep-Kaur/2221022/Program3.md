@@ -21,8 +21,8 @@ int main()
     
 }
 
-*Output* : Enter two numbers: 5
+**Output* : Enter two numbers: 5
 
-20
+**20
 
-5 + 20 = 25
+**5 + 20 = 25
