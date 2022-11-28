@@ -1,4 +1,4 @@
-## Program 5: Write a program to use for loop
+## Program 5: Write a program to print table of any number using for loop
 #include<stdio.h>
 
 int main()
@@ -23,24 +23,24 @@ printf("%d \n",(number*i));
 
 }
 
-*Output* : Enter a number: 4
+**Output : Enter a number: 4**
 
-4 
+**4**
 
-8 
+**8**
 
-12 
+**12** 
 
-16 
+**16**
 
-20 
+**20** 
 
-24 
+**24** 
 
-28 
+**28** 
 
-32 
+**32** 
 
-36 
+**36** 
 
-40 
+**40** 
