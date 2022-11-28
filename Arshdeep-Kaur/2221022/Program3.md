@@ -6,23 +6,22 @@ int main()
 
 {    
 
-    int a, b, sum;
+int a, b, sum;
     
-    printf("Enter two numbers: ");
+printf("Enter two numbers: ");
     
-    scanf("%d %d", &a, &b);
+scanf("%d %d", &a, &b);
 
-    // calculating sum
-    sum = a + b;      
+sum = a + b;      
     
-    printf("%d + %d = %d", a, b, sum);
+printf("%d + %d = %d", a, b, sum);
     
-    return 0;
+return 0;
     
 }
 
-**Output* : Enter two numbers: 5
+**Output : Enter two numbers: 5**
 
-**20
+**20**
 
-**5 + 20 = 25
+**5 + 20 = 25**
