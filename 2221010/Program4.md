@@ -1,5 +1,5 @@
 ## Program4: To write a program to find the largest number among three 
-
+```C
 #include <stdio.h>
 
 int main() 
@@ -25,5 +25,5 @@ int main()
     return 0;
     
 }
-
+```
 ## *Output*: n1 is the largest number
