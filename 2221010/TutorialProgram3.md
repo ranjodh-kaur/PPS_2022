@@ -1,5 +1,5 @@
 ## Tutorial Program3: Wrte  a code to display marks of students using "float" datatype
-
+```C
 #include <stdio.h>
 
 int main() {
@@ -17,7 +17,7 @@ printf("Aman scored = %lf\n",mark2);
 return 0;
     
 }
-
+```
 **Output**: Maths test marks of two students are given below:-
 
 Anil scored = 94.292000
