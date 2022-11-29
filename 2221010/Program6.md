@@ -1,5 +1,5 @@
 ## *Program6*: To write a program to use for loop (*for*)
-
+```C
 #include<stdio.h>
 
 int main()
@@ -23,8 +23,10 @@ int main()
     }
     
 }
+```
+## *input*: Enter a number8
 
-## *Output*: Enter a number8
+## Output:
 
 8
 
