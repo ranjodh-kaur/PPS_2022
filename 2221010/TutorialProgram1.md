@@ -1,5 +1,5 @@
 ## Tutorial Program1: Write a code to display " I need some coffee "
-
+```C
 #include <stdio.h>
 
 int main() {
@@ -9,5 +9,5 @@ int main() {
     return 0;
     
 }
-
+```
 **Output**: I need some coffee
