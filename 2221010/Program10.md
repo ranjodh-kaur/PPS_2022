@@ -33,7 +33,7 @@ while(i<5)
     
 }
 ```
-**Output**:
+**Output**:  
 ```C
 1
 
