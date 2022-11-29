@@ -30,7 +30,7 @@ printf("Today is Monday");
 
 }
 
-return 0;
+return 0; 
  
 }
 ```
