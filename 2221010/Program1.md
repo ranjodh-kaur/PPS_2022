@@ -1,4 +1,4 @@
-## Program1:Write a code to display hello world
+##  Program1:Write a code to display hello world
 ```C
 #include<stdio.h>
 
