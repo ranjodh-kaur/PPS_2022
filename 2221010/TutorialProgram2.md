@@ -1,5 +1,5 @@
 ## Tutorial program2: To write a code to enter any character using scanf and arrays
-
+```C
 #include <stdio.h>
 
 int main() {
@@ -15,7 +15,7 @@ printf("The character you entered is %c");
 return 0;
 
 }
-
+```
 **Output**:Please enter a suitable characterDog
 
 The character you entered is Dog
