@@ -18,7 +18,7 @@ return 0;
 
 }
 ```
-**Output**: 
+**Output**:  
 ```C
 Enter a ASCII value:71
 
