@@ -1,5 +1,5 @@
 ## Program3: To write a program to use loops (*While*)
-
+```C
 #include <stdio.h>
 
 int main() {
@@ -13,8 +13,8 @@ printf("%d\n",i);
 i++;
         
  }
- 
- ## *Output*: 
+ ```
+ ## *Output*:
  8
  
  8
