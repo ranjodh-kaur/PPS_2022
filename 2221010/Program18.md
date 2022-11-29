@@ -8,7 +8,7 @@ int main()
 
 {
 
-char a[20]="ashmeet";
+char a[20]="amanjot";
 
 printf("%d",strlen(a));
 
