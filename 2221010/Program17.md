@@ -1,4 +1,4 @@
-## Program21: To write a code using (dowhile) loop
+## Program17: To write a code using (dowhile) loop
 ```C
 #include <stdio.h>
 
