@@ -1,4 +1,5 @@
 ## Program9:To write a code for addition of two integers
+```C
 #include<stdio.h>
 
 int main()
@@ -15,5 +16,5 @@ int main()
    return 0;
    
 }
-
+```
 ## *Output*:50
