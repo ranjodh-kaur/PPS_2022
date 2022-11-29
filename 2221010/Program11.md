@@ -1,5 +1,5 @@
 ##  Program11: To write a code using bitwise operator
-
+```C
 #include <stdio.h>
 
 int main()
@@ -19,9 +19,9 @@ int main()
    return 0;
    
 }
-
+```
 **Output**:
-
+```C
 a=12 , b=25
 
 bitwise AND operator = A & B = 8
