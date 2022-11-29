@@ -1,5 +1,5 @@
 ## Program10: To write a code using function and while loop
-
+```C
 #include <stdio.h>
 
 int i=0;
@@ -32,7 +32,7 @@ while(i<5)
     return 0;
     
 }
-
+```
 **Output**:
 
 1
