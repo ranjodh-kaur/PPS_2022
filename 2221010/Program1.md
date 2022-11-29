@@ -12,4 +12,4 @@ return0;
 
 }
 ```
-**Output**: hello world 
+**Output**: hello world  
