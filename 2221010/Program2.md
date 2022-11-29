@@ -1,5 +1,5 @@
 ## Program2:Write a program to add 2 numbers
-
+```C
 #include<stdio.h>
 
 int main()
@@ -19,5 +19,5 @@ printf("%d",Z);
 return 0;
 
 }
-
-**output**: 30
+```
+**Output**: 30
