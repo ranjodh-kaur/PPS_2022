@@ -20,7 +20,7 @@ int main()
    
 }
 ```
-**Output**:
+**Output**: 
 ```C
 a=12 , b=25
 
