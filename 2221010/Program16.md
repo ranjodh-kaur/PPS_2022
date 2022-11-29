@@ -1,5 +1,5 @@
 ## Program16: To write a code using Arrays
-
+```C
 #include<stdio.h>
 
 int main()
