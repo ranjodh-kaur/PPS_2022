@@ -1,0 +1,25 @@
+#include <stido.h>
+
+int main()
+
+{
+
+char str[15];
+
+int n;
+
+printf("enter your username\n");
+
+scanf("%s",&str);
+
+printf("enter your roll no.\n");
+
+scanf("%d",&n);
+
+printf("Username=%s\n",str);
+
+printf("Roll no.=%d\n",n);
+
+return 0;
+
+}
