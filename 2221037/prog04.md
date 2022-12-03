@@ -15,8 +15,6 @@ int main(){
 	printf("A mod B = %d (Remainder operator)\n",a%b);
 
 	printf("---- Bitwise Operators ----\n");
-	printf("a = %d\n",a);
-	printf("b = %d\n",b);
     	printf("a & b = %d  (Bitwise and)\n",a&b);
     	printf("a | b = %d  (Bitwise or)\n",a|b);
     	printf("~a = %d  (Bitwise not)\n",~a);
