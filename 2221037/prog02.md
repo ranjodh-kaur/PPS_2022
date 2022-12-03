@@ -1,19 +1,26 @@
-## Program 2: Write a program to add two numbers
+## Program 2: Write a program sohw bitwise operators
 
 ```C
 #include<stdio.h>
 
 int main(){
 	int a = 17,b=23;
-	int z = a+b;
 
-	printf("Sum of %d + %d = %d\n",a,b,z);
-
+	printf("a = %d\n",a);
+	printf("b = %d\n",b);
+    	printf("a & b = %d  (Bitwise and)\n",a&b);
+    	printf("a | b = %d  (Bitwise or)\n",a|b);
+    	printf("~a = %d  (Bitwise not)\n",~a);
+	
 	return 0;
 }
 ```
 
 ### Output:
 ```
-Sum of 17 + 23 = 40
+a = 17
+b = 23
+a & b = 17  (Bitwise and)
+a | b = 23  (Bitwise or)
+~a = -18  (Bitwise not)
 ```
