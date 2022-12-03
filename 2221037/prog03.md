@@ -4,17 +4,26 @@
 #include<stdio.h>
 
 int main(){
-	int x;
-	printf("Enter a number : ");
-	scanf("%d",&x);
-	printf("You entered - %d\n",x);
+    char usr[20];
+    int roll;
+    printf("Enter username -> ");
+    scanf("%s",usr);
+    printf("Enter Roll number -> ");
+    scanf("%d",&roll);
 
-	return 0;
+    printf("\nUsername -> %s\n",usr);
+    printf("Password -> %d\n",roll);
+
+    return 0;
 }
+
 ```
 
 ### Output:
 ```
-Enter a number : 93375 
-You entered - 93375
+Enter username -> Devesh
+Enter Roll number -> 2221037
+
+Username -> Devesh
+Password -> 2221037
 ```
