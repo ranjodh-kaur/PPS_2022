@@ -62,6 +62,7 @@ switch (day)
 
 }
 
+
 **OUTPUT: Enter the day no. of the week**
 
 **5**
