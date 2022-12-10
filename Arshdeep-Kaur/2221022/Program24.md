@@ -2,6 +2,8 @@
 
 #include <stdio.h>
 
+#include <string.h>
+
 int main()
 
 {
@@ -10,12 +12,12 @@ char arr[10]= "Arshdeep";
 
 char str[15];
 
-strcpy(arr,str, 10);
+strcpy(str,arr);
 
-printf("%s\n",arr);
+printf("%s\n",str);
 
 return 0;
 
 }
 
-**OUTPUT: 
+**OUTPUT: Arshdeep**
