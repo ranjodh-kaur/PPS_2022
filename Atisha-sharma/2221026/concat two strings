@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+#include <string.h>
+
+int main()
+
+{
+
+char string1[10]="Atisha";
+
+char string2[10]="sharma";
+
+strncat(string1,string2,4);
+
+print(" Concatenated string: %s",string1);
+
+}
