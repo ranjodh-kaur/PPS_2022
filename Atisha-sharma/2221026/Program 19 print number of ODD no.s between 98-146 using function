@@ -1,0 +1,37 @@
+#include <stdio.h>
+
+int odd();
+
+int main()
+f
+{
+
+printf("Number of odd no.s between 98 to 146 are:");
+
+odd();
+
+}
+
+int odd()
+
+{
+
+
+int count=0;
+
+int i;
+
+for(i=98;i<=146;i++)
+
+{
+
+  if(i%2!=0)
+  count++;
+  
+  }
+  
+  printf("%d\n".count);'
+  
+  return 0;
+  
+  }
