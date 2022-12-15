@@ -1,5 +1,5 @@
 
-## Program 26: Write a program to show the factorial of a given number
+## Program 23: Write a program to show the factorial of a given number
 
 
 
