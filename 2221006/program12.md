@@ -1,4 +1,4 @@
-##Program 14: Write program to demonstrate arrays
+##Program 12: Write program to use demonstrate arrays
 
 ```c
 #include <stdio.h>
