@@ -1,4 +1,4 @@
-## Tutorial Program3: Wrte  a code to display marks of students using "float" datatype
+## Tutorial Program22: Wrte  a code to display marks of students using "float" datatype
 ```C
 #include <stdio.h>
 
