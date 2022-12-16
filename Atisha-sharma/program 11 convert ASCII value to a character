@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+int main()
+
+{
+
+int ascii;
+
+printf("enter a ASCII value\n");
+
+scanf("%d",&ascii);
+
+printf("\n ascii to char=%c",ascii);
+
+return 0;
+
+}
