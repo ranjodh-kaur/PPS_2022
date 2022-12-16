@@ -1,5 +1,5 @@
 
-## Program 8: Write a program to demonstrate for loop in C
+## Program 29: Write a program to demonstrate for loop in C
 ```c
 #include <stdio.h>
 
