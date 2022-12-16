@@ -1,4 +1,4 @@
-## Program 17: Write a program to use float and double datatypes and puts function
+## Program 19: Write a program to use float and double datatypes and puts function
 ```
 #include<stdio.h>
 int main()
