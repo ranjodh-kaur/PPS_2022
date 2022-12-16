@@ -1,4 +1,4 @@
-Program 22: Write a program to print FIBONACCI SERIES upto n numbers
+## Program 22: Write a program to print FIBONACCI SERIES upto n numbers
 #include<stdio.h>
 
 int main()
