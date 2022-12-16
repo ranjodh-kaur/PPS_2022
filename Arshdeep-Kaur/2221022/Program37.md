@@ -1,4 +1,4 @@
-## Program 37: Write a program to print the fibonacci series
+## Program 37: Write a program to print the fibonacci series using function
 
 #include <stdio.h>
 
