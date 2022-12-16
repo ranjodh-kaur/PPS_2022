@@ -1,4 +1,4 @@
-##Program 12: Write program to use demonstrate arrays
+## Program 12: Write program to use demonstrate arrays
 
 ```c
 #include <stdio.h>
@@ -19,7 +19,7 @@ int main(){
     return 0;
 }
 ```
-##Output:
+## Output:
 ```
 Enter array elements:
 Enter 1 element: 5
