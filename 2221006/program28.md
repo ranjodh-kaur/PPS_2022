@@ -1,4 +1,4 @@
-## Program 10: Write a program to demonstrate do while loop
+## Program 28: Write a program to demonstrate do while loop
 ```c
 #include <stdio.h>
 
