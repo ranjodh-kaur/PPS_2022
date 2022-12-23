@@ -1,4 +1,4 @@
-## Program 29: Write a program to find its square root.
+## Write a program to find its square root.
 
 #include <stdio.h>
 
