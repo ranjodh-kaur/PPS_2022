@@ -1,4 +1,4 @@
-## Program 33:Write a program to print right angled star pattern.
+## Write a program to print right angled star pattern.
 ```C
 
 #include<stdio.h>
