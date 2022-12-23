@@ -1,4 +1,4 @@
-## Program 24: Write a program to check if a number is prime
+##  Write a program to check if a number is prime
 ```
 #include <stdio.h>
 int isPrime(int n)
