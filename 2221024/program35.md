@@ -1,4 +1,4 @@
-## Program 23 : Write a program using string concatenate function.
+## Write a program using string concatenate function.
 ```C
 #include<stdio.h>
 #include<string.h>
