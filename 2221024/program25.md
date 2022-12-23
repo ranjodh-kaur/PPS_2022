@@ -1,4 +1,4 @@
-## Program 23: Write a program to use comparison operator
+##  Write a program to use comparison operator
 ```
 #include<stdio.h>
 int main()
