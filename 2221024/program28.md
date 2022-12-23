@@ -1,4 +1,4 @@
-## Program 26: Write a program to show the factorial of a given number
+##  Write a program to show the factorial of a given number
 ```
 #include <stdio.h>
 int fact(int n)
