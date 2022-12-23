@@ -1,4 +1,4 @@
-## Program 28: Write a program to use palindrome string
+## Program 30: Write a program to use palindrome string
 ```
 #include <stdio.h>
 #include <string.h>
