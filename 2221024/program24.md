@@ -1,4 +1,4 @@
-## Program 22: Write a program to determine the value of given code in tutorial
+## Write a program to determine the value of given code in tutorial
 ```
 #include<stdio.h>
 int main()
