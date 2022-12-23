@@ -1,4 +1,4 @@
-## Program 21: To check the condition in the following code given in tutorial
+## To check the condition in the following code given in tutorial
 ``` 
 #include <stdio.h>
 int main()
