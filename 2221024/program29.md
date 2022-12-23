@@ -1,4 +1,4 @@
-## Program 27: Write a program to check if a number is palindromic
+## Program 29: Write a program to check if a number is palindromic
 ```
 #include <stdio.h>
 int reverse(int n)
