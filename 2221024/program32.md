@@ -1,4 +1,4 @@
-## Program 30: Write a program to swap two variable using a temporary variable
+## Program 32: Write a program to swap two variable using a temporary variable
 ``` 
 #include <stdio.h>
 int main()
