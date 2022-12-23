@@ -1,4 +1,4 @@
-### Program 12: Write a program to use switch statement
+###  Write a program to use switch statement
 ```
 #include <stdio.h>
 int main()
