@@ -1,4 +1,4 @@
-## Program 33: Write a program to illustrate the use of strcmp function.
+## Write a program to illustrate the use of strcmp function
 ```C
 #include<stdio.h>
 int main()
