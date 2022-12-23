@@ -1,4 +1,4 @@
-## Program 32: Write a program to illustarte the use of strcat function.
+## Write a program to illustarte the use of strcat function
 ```C
 #include <stdio.h>
 #include<string.h>
