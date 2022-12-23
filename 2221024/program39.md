@@ -1,4 +1,4 @@
-## Program 28: Write a program to illustrate the use of strcpy function.
+## Write a program to illustrate the use of strcpy function.
 ```C
 #include <stdio.h>
 #include<string.h>
