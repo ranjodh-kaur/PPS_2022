@@ -1,4 +1,4 @@
-## Program 32: Write a program to perform binary search
+## Write a program to perform binary search
 ```c
 #include <stdio.h>
 
