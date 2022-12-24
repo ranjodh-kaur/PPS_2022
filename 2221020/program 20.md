@@ -1,4 +1,4 @@
-## Program 15: Use of character datatype (Tutorial 1)
+## Program 20: Use of character datatype (Tutorial 1)
 ```C
 #include<stdio.h>
 int main()
