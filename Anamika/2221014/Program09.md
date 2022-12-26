@@ -1,4 +1,4 @@
-**Write a program to display  A is a no greater than && less than 100.
+## Program 9: Write a program to display  A is a no greater than && less than 100.
  
 
 #include<stdio.h>
