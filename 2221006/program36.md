@@ -1,4 +1,4 @@
-## Program 38: Write a program to calculate the length of a string using strlen()
+## Program 36: Write a program to calculate the length of a string using strlen()
 ```c
  
 #include <stdio.h>
