@@ -1,4 +1,4 @@
-## Program 33: Write a program to perform selection sort
+## Program 35: Write a program to perform selection sort
 ```c
 
 #include <stdio.h>
