@@ -1,4 +1,4 @@
-## Program 39: Write a program to compare two strings using strcmp()
+## Program 37: Write a program to compare two strings using strcmp()
 ```c
 #include <stdio.h>
 #include <string.h>
