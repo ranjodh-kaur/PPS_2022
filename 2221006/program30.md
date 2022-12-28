@@ -1,4 +1,4 @@
-## Program 40: Write a program to reverse a string
+## Program 30: Write a program to reverse a string
 ```c
 #include <stdio.h>
 #include <string.h>
